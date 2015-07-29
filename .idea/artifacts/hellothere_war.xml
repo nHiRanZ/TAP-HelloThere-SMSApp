@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hellothere:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="hellothere.war">
+      <element id="artifact" artifact-name="hellothere:war exploded" />
+    </root>
+  </artifact>
+</component>
